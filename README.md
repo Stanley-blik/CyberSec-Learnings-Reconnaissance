@@ -17,10 +17,10 @@ Reconnaissance (or **recon**) is the first phase of any penetration test or hack
 
 ## 🔍 Why is Reconnaissance Important?
 
-✅ Discover **what systems are in scope**
-✅ Find **open ports and services**
-✅ Identify **potential vulnerabilities**
-✅ Plan your attack **efficiently**
+✅ Discover **what systems are in scope**<br>
+✅ Find **open ports and services**<br>
+✅ Identify **potential vulnerabilities**<br>
+✅ Plan your attack **efficiently**<br>
 ✅ Avoid **wasting time on blind attempts**
 
 Also known as:
